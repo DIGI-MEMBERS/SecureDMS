@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Database
+*.db
+*.sqlite
+
+# Uploaded/encrypted files
+backend/storage/uploads/*
+backend/storage/encrypted/*
+
+# Logs
+*.log
+
+# Node
+node_modules/
+frontend/.env
+frontend/dist/
+frontend/build/
