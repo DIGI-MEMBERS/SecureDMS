@@ -23,3 +23,19 @@ node_modules/
 frontend/.env
 frontend/dist/
 frontend/build/
+
+
+
+# Environment / secrets
+backend/.env
+
+# Local database
+backend/database/securedms.db
+
+
+# Local logs
+backend/logs/*
+
+# Test files
+backend/test.txt
+backend/storage.zip
